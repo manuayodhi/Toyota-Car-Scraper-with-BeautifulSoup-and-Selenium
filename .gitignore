@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vscode/
+car_0.html
